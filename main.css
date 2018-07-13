@@ -18,3 +18,9 @@ button.coolStuffBtn{
     display: block;
     margin:auto;
 }
+h5.modal-title{
+    margin:auto;
+}
+.modalFormWrapper{
+    padding: 2rem;
+}
